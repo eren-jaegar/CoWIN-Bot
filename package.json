@@ -19,14 +19,6 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pathakshashank17/CoWINbot.git"
-  },
-  "author": "Shashank Pathak",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pathakshashank17/CoWINbot/issues"
-  },
-  "homepage": "https://github.com/pathakshashank17/CoWINbot#readme"
+  "author": "Paranjay Garg",
+  "license": "ISC"
 }
